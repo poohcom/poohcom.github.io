@@ -1,3 +1,5 @@
+remote_theme : mmistakes/minimal-mistakes
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -294,5 +296,5 @@ defaults:
       share: true
       related: true
       
- remote_theme : mmistakes/minimal-mistakes     
+      
  
