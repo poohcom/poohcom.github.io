@@ -1,4 +1,7 @@
-remote_theme : mmistakes/minimal-mistakes
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
+
+#remote_theme : mmistakes/minimal-mistakes
 
 # Welcome to Jekyll!
 #
