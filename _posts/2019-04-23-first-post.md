@@ -1,7 +1,6 @@
-처음 페이지 연습용
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+title: "처음 페이지 연습용"
+date: 2019-04-23 08:26:28 -0400
 categories: jekyll update
 ---
 
